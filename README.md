@@ -21,9 +21,9 @@
   <h1></h1>
   
   <strong>:woman_technologist: ABOUT ME:</strong><br>
-   I am a italian-brazilian aspiring Web Developer living in Germany 🇩🇪 <br>
+   I am a italian-brazilian aspiring Web Developer living in Germany. 🇩🇪 <br>
     - 👩‍🔬 Chemical Engineering graduate with a Bachelor of Science.<br>
-    - 👩‍🎓 Learning Web Development self-taught method <br>
+    - 👩‍🎓 Learning Web Development self-taught method. <br>
     - 🚴‍♀️ Love cycling.
 
 <h4>
