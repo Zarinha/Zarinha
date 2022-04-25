@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1 style="color:purple;">Jessica Zaramelo</h1>
-  <img src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp" width="250"/>
+  <img src="https://raw.githubusercontent.com/Zarinha/Zarinha/main/images/giphy.webp" width="250"/>
   <p><b>Hi There!</b> 👋 </p>
 </div>
 <div id="badges" align="center">
@@ -25,3 +25,11 @@
 
 ---
 ### 🛠️ Languages and Tools:
+<div>
+<img src="https://raw.githubusercontent.com/Zarinha/Zarinha/7c44090a278e43b7946ed70634d4afaba2759f94/images/html5-original-wordmark.svg" width=50>
+  <img src="https://raw.githubusercontent.com/Zarinha/Zarinha/d18bd97225db675d4b074d1f116a48d81b2bbdfa/images/css3-original-wordmark%20(1).svg" width=50>
+  <img src="https://raw.githubusercontent.com/Zarinha/Zarinha/d18bd97225db675d4b074d1f116a48d81b2bbdfa/images/javascript-original.svg" width=50>
+  <img src="https://raw.githubusercontent.com/Zarinha/Zarinha/d18bd97225db675d4b074d1f116a48d81b2bbdfa/images/git-original-wordmark.svg" width=50>
+  <img src="https://raw.githubusercontent.com/Zarinha/Zarinha/d18bd97225db675d4b074d1f116a48d81b2bbdfa/images/linux-original.svg" width=50>
+    <img src="https://raw.githubusercontent.com/Zarinha/Zarinha/d18bd97225db675d4b074d1f116a48d81b2bbdfa/images/vscode-original-wordmark.svg" width=50>
+  
