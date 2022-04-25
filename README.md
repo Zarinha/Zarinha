@@ -3,7 +3,7 @@
   <p><strong>Hi There!</strong> 👋 </p>
 </div>
   ---
-
+<div id="body" align="center">
 ### :woman_technologist: ABOUT ME:
    I am a italian-brazilian aspiring Web Developer living in Germany 🇩🇪 <br>
     - 👩‍🔬 Chemical Engineering graduate with a Bachelor of Science.<br>
@@ -19,10 +19,11 @@
   <img src="https://raw.githubusercontent.com/Zarinha/Zarinha/d18bd97225db675d4b074d1f116a48d81b2bbdfa/images/git-original-wordmark.svg" width=50>
   <img src="https://raw.githubusercontent.com/Zarinha/Zarinha/d18bd97225db675d4b074d1f116a48d81b2bbdfa/images/linux-original.svg" width=50>
     <img src="https://raw.githubusercontent.com/Zarinha/Zarinha/d18bd97225db675d4b074d1f116a48d81b2bbdfa/images/vscode-original-wordmark.svg" width=50>
-
+  </div>
+  
   ---
 
-  <div id="body" align="center">
+  <div id="background" align="center">
   <img src="https://github.com/Zarinha/Zarinha/blob/main/images/images.jpeg?raw=true" width=700>
   </div>
   
