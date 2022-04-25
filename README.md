@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/Zarinha/Zarinha/main/images/giphy.webp" width="150"/>
-  <p><b>Hi There!</b> 👋 </p>
+  <p><strong>Hi There!</strong> 👋 </p>
 </div>
   ---
 
