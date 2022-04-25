@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/Zarinha/Zarinha/main/images/giphy.webp" width="150">
+  <img src="https://raw.githubusercontent.com/Zarinha/Zarinha/main/images/giphy.webp" width="100">
   <h1><strong>Hi There!</strong> 👋 </h1>
 </div>
 
