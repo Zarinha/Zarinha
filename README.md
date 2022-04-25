@@ -3,7 +3,23 @@
   <h1><strong>Hi There!</strong> 👋 </h1>
 </div>
 
-<div id="body" align="left">
+  <div id="background" align="center">
+  <img src="https://github.com/Zarinha/Zarinha/blob/main/images/images.jpeg?raw=true" width=500>
+  </div>
+  <p></p>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/jessica-z-941379212">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  </div>
+  <h1></h1>
+  
   <strong>:woman_technologist: ABOUT ME:</strong><br>
    I am a italian-brazilian aspiring Web Developer living in Germany 🇩🇪 <br>
     - 👩‍🔬 Chemical Engineering graduate with a Bachelor of Science.<br>
@@ -21,20 +37,10 @@
     <img src="https://raw.githubusercontent.com/Zarinha/Zarinha/d18bd97225db675d4b074d1f116a48d81b2bbdfa/images/vscode-original-wordmark.svg" width=50>
   </div>
   
-  ---
+<h1> </h1>
 
-  <div id="background" align="center">
-  <img src="https://github.com/Zarinha/Zarinha/blob/main/images/images.jpeg?raw=true" width=700>
-  </div>
-  <p></p>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/jessica-z-941379212">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  </div>
+### :fire: My Stats :
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zarinha&theme=bear&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zarinha&layout=default&theme=bear&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/anuraghazra/github-readme-stats)
+---
