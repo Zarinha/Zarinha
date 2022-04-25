@@ -26,8 +26,7 @@
   <div id="background" align="center">
   <img src="https://github.com/Zarinha/Zarinha/blob/main/images/images.jpeg?raw=true" width=700>
   </div>
-  
-  ---
+  <p></p>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/jessica-z-941379212">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
