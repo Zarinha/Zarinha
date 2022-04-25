@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h1 style="color:purple;">Jessica Zaramelo</h1>
   <img src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp" width="250"/>
-  <p>Hi There!</p>
+  <p><b>Hi There!</b> 👋 </p>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/jessica-z-941379212">
@@ -13,4 +13,12 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
+  
+  </div>
+<div id="body">
+  <p><b>ABOUT ME</b></p>
+   <p> I am a italian-brazilian aspiring Web Developer living in Germany<br>
+    - 👩‍🔬 Chemical Engineering graduate with a Bachelor of Science.<br>
+    - 👩‍💻 Engineering & Technology passionate getting into coding.<br>
+    -
+  </div>
