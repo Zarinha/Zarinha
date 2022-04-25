@@ -14,8 +14,11 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   </div>
+  <div id="body" align="center">
+  <img src="https://github.com/Zarinha/Zarinha/blob/main/images/images.jpeg?raw=true" width=700>
+  </div>
   
----
+  ---
 
 ### :woman_technologist: ABOUT ME:
    I am a italian-brazilian aspiring Web Developer living in Germany 🇩🇪 <br>
@@ -23,8 +26,8 @@
     - 👩‍🎓 Learning Web Development self-taught method <br>
     - 🚴‍♀️ Love cycling.
 
----
-### 🛠️ Languages and Tools:
+<h4>
+🛠️ Languages and Tools:</h4>
 <div>
 <img src="https://raw.githubusercontent.com/Zarinha/Zarinha/7c44090a278e43b7946ed70634d4afaba2759f94/images/html5-original-wordmark.svg" width=50>
   <img src="https://raw.githubusercontent.com/Zarinha/Zarinha/d18bd97225db675d4b074d1f116a48d81b2bbdfa/images/css3-original-wordmark%20(1).svg" width=50>
