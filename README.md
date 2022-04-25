@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1 style="color:purple;">Hello Word!</h1>
-  <img src="https://raw.githubusercontent.com/Zarinha/Zarinha/main/images/giphy.webp" width="250"/>
+  <img src="https://raw.githubusercontent.com/Zarinha/Zarinha/main/images/giphy.webp" width="100"/>
   <p><b>Hi There!</b> 👋 </p>
 </div>
   ---
