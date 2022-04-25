@@ -3,21 +3,6 @@
   <img src="https://raw.githubusercontent.com/Zarinha/Zarinha/main/images/giphy.webp" width="250"/>
   <p><b>Hi There!</b> 👋 </p>
 </div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/jessica-z-941379212">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  </div>
-  <div id="body" align="center">
-  <img src="https://github.com/Zarinha/Zarinha/blob/main/images/images.jpeg?raw=true" width=700>
-  </div>
-  
   ---
 
 ### :woman_technologist: ABOUT ME:
@@ -35,4 +20,22 @@
   <img src="https://raw.githubusercontent.com/Zarinha/Zarinha/d18bd97225db675d4b074d1f116a48d81b2bbdfa/images/git-original-wordmark.svg" width=50>
   <img src="https://raw.githubusercontent.com/Zarinha/Zarinha/d18bd97225db675d4b074d1f116a48d81b2bbdfa/images/linux-original.svg" width=50>
     <img src="https://raw.githubusercontent.com/Zarinha/Zarinha/d18bd97225db675d4b074d1f116a48d81b2bbdfa/images/vscode-original-wordmark.svg" width=50>
+
+  ---
+
+  <div id="body" align="center">
+  <img src="https://github.com/Zarinha/Zarinha/blob/main/images/images.jpeg?raw=true" width=700>
+  </div>
   
+  ---
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/jessica-z-941379212">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  </div>
