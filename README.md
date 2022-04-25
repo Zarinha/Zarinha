@@ -1,10 +1,10 @@
 <div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/Zarinha/Zarinha/main/images/giphy.webp" width="150"/>
-  <p><strong>Hi There!</strong> 👋 </p>
+  <img src="https://raw.githubusercontent.com/Zarinha/Zarinha/main/images/giphy.webp" width="150">
+  <h1><strong>Hi There!</strong> 👋 </h1>
 </div>
-  ---
-<div id="body" align="center">
-### :woman_technologist: ABOUT ME:
+
+<div id="body" align="left">
+  <strong>:woman_technologist: ABOUT ME:</strong><br>
    I am a italian-brazilian aspiring Web Developer living in Germany 🇩🇪 <br>
     - 👩‍🔬 Chemical Engineering graduate with a Bachelor of Science.<br>
     - 👩‍🎓 Learning Web Development self-taught method <br>
