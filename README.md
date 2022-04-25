@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1 style="color:purple;">HEllO WORLD!</h1>
+  <h1 style="color:purple;">Hello Word!</h1>
   <img src="https://raw.githubusercontent.com/Zarinha/Zarinha/main/images/giphy.webp" width="250"/>
   <p><b>Hi There!</b> 👋 </p>
 </div>
