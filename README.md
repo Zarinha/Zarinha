@@ -39,5 +39,7 @@
 
 <h1></h1>
 <div id="footer" align="center">
- <p><strong> <a input type="submit" name="commit" value="Follow" class="btn btn-block" title="Follow Zarinha" aria-label="Follow Zarinha" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:100753264,&quot;target&quot;:&quot;FOLLOW_BUTTON&quot;,&quot;user_id&quot;:104423004,&quot;originating_url&quot;:&quot;https://github.com/Zarinha&quot;}}" data-hydro-click-hmac="d98065b311c5789d745ea7470dafcaee3c59054811287bdb91fd5f550449cd07" data-disable-with="Follow"> FOLLOW ME</strong></a></p>
+ <p><strong>FALLOW ME</strong><p>
+<p><a class="github-button" href="https://github.com/Zarinha" "Follow @Zarinha on GitHub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></p>
+ 
  <img src="https://github.com/Zarinha/Zarinha/blob/main/images/images.jpeg?raw=true" alt="coding woman" width=600>
