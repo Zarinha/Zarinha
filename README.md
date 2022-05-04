@@ -39,7 +39,7 @@
 
 <h1></h1>
 <div id="footer" align="center">
- <p><strong>FALLOW ME</strong><p>
+ <p><strong>FOLLOW ME</strong><p>
 <p><a class="github-button" href="https://github.com/Zarinha" "Follow @Zarinha on GitHub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></p>
  
  <img src="https://github.com/Zarinha/Zarinha/blob/main/images/images.jpeg?raw=true" alt="coding woman" width=600>
