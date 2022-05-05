@@ -31,7 +31,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zarinha&theme=bear&date_format=M%20j%5B%2C%20Y%5D)](http://github-readme-streak-stats.herokuapp.com?user=Zarinha&theme=bear&date_format=M%20j%5B%2C%20Y%5D)
  
  
-[!GitHub Stats](https://github-readme-stats.vercel.app/api?username=zarinha&theme=bear&date_format=M%20j%5B%2C%20Y%5D)](https://github-readme-stats.vercel.app/api?username=zarinha&theme=bear&date_format=M%20j%5B%2C%20Y%5D)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zarinha&theme=bear&date_format=M%20j%5B%2C%20Y%5D)](https://github-readme-stats.vercel.app/api?username=zarinha&theme=bear&date_format=M%20j%5B%2C%20Y%5D)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zarinha&layout=default&theme=bear&date_format=M%20j%5B%2C%20Y%5D)](https://github-readme-stats.vercel.app/api/top-langs/?username=zarinha&layout=default&theme=bear&date_format=M%20j%5B%2C%20Y%5D)
     
