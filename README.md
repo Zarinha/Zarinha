@@ -21,8 +21,12 @@
   <img src="https://raw.githubusercontent.com/Zarinha/Zarinha/d18bd97225db675d4b074d1f116a48d81b2bbdfa/images/css3-original-wordmark%20(1).svg" width=50>
   <img src="https://raw.githubusercontent.com/Zarinha/Zarinha/d18bd97225db675d4b074d1f116a48d81b2bbdfa/images/javascript-original.svg" width=50>
   <img src="https://raw.githubusercontent.com/Zarinha/Zarinha/d18bd97225db675d4b074d1f116a48d81b2bbdfa/images/git-original-wordmark.svg" width=50>
+ <img src="https://raw.githubusercontent.com/Zarinha/Zarinha/f0679abfdd1861591aac19d1e25dde9efb863648/images/ubuntu-plain-wordmark.svg" width=50>
+ <img src="https://raw.githubusercontent.com/Zarinha/Zarinha/f0679abfdd1861591aac19d1e25dde9efb863648/images/github-original-wordmark.svg" width=50>
   <img src="https://raw.githubusercontent.com/Zarinha/Zarinha/d18bd97225db675d4b074d1f116a48d81b2bbdfa/images/linux-original.svg" width=50>
-    <img src="https://raw.githubusercontent.com/Zarinha/Zarinha/d18bd97225db675d4b074d1f116a48d81b2bbdfa/images/vscode-original-wordmark.svg" width=50>
+  <img src="https://raw.githubusercontent.com/Zarinha/Zarinha/d18bd97225db675d4b074d1f116a48d81b2bbdfa/images/vscode-original-wordmark.svg" width=50>
+  <img src="https://raw.githubusercontent.com/Zarinha/Zarinha/f0679abfdd1861591aac19d1e25dde9efb863648/images/ssh.svg" width=50>
+ 
   </div>
   <div>
 <h2></h2>
