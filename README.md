@@ -26,6 +26,8 @@
   <img src="https://raw.githubusercontent.com/Zarinha/Zarinha/d18bd97225db675d4b074d1f116a48d81b2bbdfa/images/linux-original.svg" width=50>
   <img src="https://raw.githubusercontent.com/Zarinha/Zarinha/d18bd97225db675d4b074d1f116a48d81b2bbdfa/images/vscode-original-wordmark.svg" width=50>
   <img src="https://raw.githubusercontent.com/Zarinha/Zarinha/f0679abfdd1861591aac19d1e25dde9efb863648/images/ssh.svg" width=50>
+  <img src="https://raw.githubusercontent.com/Zarinha/Zarinha/e6cf0d87d464c04149ac7aaec520e36e1e0e9411/images/nodejs-original-wordmark.svg" width=50>
+ 
  
   </div>
   <div>
