@@ -39,7 +39,6 @@
  
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zarinha&theme=bear&date_format=M%20j%5B%2C%20Y%5D)](https://github-readme-stats.vercel.app/api?username=zarinha&theme=bear&date_format=M%20j%5B%2C%20Y%5D)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zarinha&layout=default&theme=bear&date_format=M%20j%5B%2C%20Y%5D)](https://github-readme-stats.vercel.app/api/top-langs/?username=zarinha&layout=default&theme=bear&date_format=M%20j%5B%2C%20Y%5D)
     
  </div>
 
