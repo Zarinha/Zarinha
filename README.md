@@ -9,9 +9,9 @@
 </div>
   
   <strong>:woman_technologist: ABOUT ME:</strong><br>
-   I am a italian-brazilian aspiring Web Developer living in Germany. 🇩🇪 <br>
+   I am an Italian-Brazilian living in Germany. 🇩🇪 <br>
     - 👩‍🔬 Chemical Engineering graduate with a Bachelor of Science.<br>
-    - 👩‍🎓 Learning Web Development self-taught method. <br>
+    - 👩‍🎓 Studying Master's Degree at the University of East London and learning Web Development self-taught method. <br>
     - 🚴‍♀️ Love cycling.
 <h1></h1>
 <h4>
@@ -34,13 +34,12 @@
 <h2></h2>
   <strong> 📊 My Stats:</strong>
  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zarinha&theme=bear&date_format=M%20j%5B%2C%20Y%5D)](http://github-readme-streak-stats.herokuapp.com?user=Zarinha&theme=bear&date_format=M%20j%5B%2C%20Y%5D)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zarinha&theme=bear&date_format=M%20j%5B%2C%20Y%5D)](http://github-readme-streak-stats.herokuapp.com?user=Zarinha&theme=bear&date_format=M%20j%5B%2C%20Y%5D);
  
  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zarinha&theme=bear&date_format=M%20j%5B%2C%20Y%5D)](https://github-readme-stats.vercel.app/api?username=zarinha&theme=bear&date_format=M%20j%5B%2C%20Y%5D)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zarinha&theme=bear&date_format=M%20j%5B%2C%20Y%5D)](https://github-readme-stats.vercel.app/api?username=zarinha&theme=bear&date_format=M%20j%5B%2C%20Y%5D);
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zarinha&layout=default&theme=bear&date_format=M%20j%5B%2C%20Y%5D)](https://github-readme-stats.vercel.app/api/top-langs/?username=zarinha&layout=default&theme=bear&date_format=M%20j%5B%2C%20Y%5D)
-    
+
  </div>
 
 <h1></h1>
