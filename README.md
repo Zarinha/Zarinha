@@ -12,7 +12,8 @@
    I am an Italian-Brazilian living in Germany. 🇩🇪 <br>
     - 👩‍🔬 Chemical Engineering graduate with a Bachelor of Science.<br>
     - 👩‍🎓 Studying Master's Degree in Data Science at the University of East London and learning Data Analysis self-taught method. <br>
-    - 🚴‍♀️ Love cycling.
+    - 👩‍💻 Currently working at Epicor as a Technical Application Specialist in EDI processes optimization. <br>
+    - 🚴‍♀️🧑‍🍳 Love cycling and cooking.
 <h1></h1>
 <h4>
 🛠️ Languages and Tools:</h4>
