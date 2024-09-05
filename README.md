@@ -28,7 +28,13 @@
   <img src="https://raw.githubusercontent.com/Zarinha/Zarinha/f0679abfdd1861591aac19d1e25dde9efb863648/images/ssh.svg" width=50>
   <img src="https://raw.githubusercontent.com/Zarinha/Zarinha/e6cf0d87d464c04149ac7aaec520e36e1e0e9411/images/nodejs-original-wordmark.svg" width=50>
   <img src="https://raw.githubusercontent.com/Zarinha/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/anaconda/anaconda-original-wordmark.svg" width=50>
-  <img src="[https://raw.githubusercontent.com/Zarinha/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/anaconda/anaconda-original-wordmark.svg](https://raw.githubusercontent.com/Zarinha/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jupyter/jupyter-original-wordmark.svg)" width=50>
+  <img src="https://raw.githubusercontent.com/Zarinha/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jupyter/jupyter-original-wordmark.svg" width=50>
+  <img src="https://raw.githubusercontent.com/Zarinha/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jira/jira-original-wordmark.svg" width=50>
+  <img src="https://raw.githubusercontent.com/Zarinha/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/numpy/numpy-original-wordmark.svg" width=50>
+  <img src="https://raw.githubusercontent.com/Zarinha/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pandas/pandas-original-wordmark.svg" width=50>
+  <img src="https://raw.githubusercontent.com/Zarinha/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sourcetree/sourcetree-original-wordmark.svg" width=50>
+  <img src="https://raw.githubusercontent.com/Zarinha/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/salesforce/salesforce-original.svg" width=50>
+  <img src="https://raw.githubusercontent.com/Zarinha/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/azuredevops/azuredevops-original.svg" width=50>
   </div>
   <div>
 <h2></h2>
